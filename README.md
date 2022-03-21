@@ -1,2 +1,2 @@
-# resume
+# Resume
 My professional resume
